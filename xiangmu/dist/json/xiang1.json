@@ -1,0 +1,26 @@
+[
+	{
+		"img0" : "img5/c1.jpg",
+		"jiage0" : "￥320.00",
+		"img1" : "img5/c2.jpg",
+		"jiage1" : "￥980.00",
+		"img2" : "img5/c3.jpg",
+		"jiage2" : "￥518.00"
+	},
+	{
+		"img0" : "img5/c2.jpg",
+		"jiage0" : "￥980.00",
+		"img1" : "img5/c1.jpg",
+		"jiage1" : "￥320.00",
+		"img2" : "img5/c3.jpg",
+		"jiage2" : "￥518.00"
+	},
+	{
+		"img0" : "img5/c3.jpg",
+		"jiage0" : "￥518.00",
+		"img1" : "img5/c2.jpg",
+		"jiage1" : "￥980.00",
+		"img2" : "img5/c1.jpg",
+		"jiage2" : "￥320.00"
+	}
+]

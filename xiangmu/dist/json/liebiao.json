@@ -1,0 +1,40 @@
+[
+	
+	{
+		"src0" : "shop02-01.jpg",
+		"src1" : "shop02-02.jpg",
+		"src2" : "shop02-03.jpg"
+	},
+	{
+		"src0" : "shop01-01.jpg",
+		"src1" : "shop01-02.jpg",
+		"src2" : "shop01-03.jpg"
+	},
+	
+	{
+		"src0" : "shop03-01.jpg",
+		"src1" : "shop03-02.jpg",
+		"src2" : "shop03-03.jpg"
+	},
+	{
+		"src0" : "shop04-01.jpg",
+		"src1" : "shop04-02.jpg",
+		"src2" : "shop04-03.jpg"
+	},
+	
+	{
+		"src0" : "shop05-01.jpg",
+		"src1" : "shop05-02.jpg",
+		"src2" : "shop05-03.jpg"
+	},
+	{
+		"src0" : "shop06-01.jpg",
+		"src1" : "shop06-02.jpg",
+		"src2" : "shop06-03.jpg"
+	},
+	{
+		"src0" : "shop07-01.jpg",
+		"src1" : "shop07-02.jpg",
+		"src2" : "shop07-03.jpg"
+	}
+]
